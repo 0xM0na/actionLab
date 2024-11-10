@@ -27,4 +27,4 @@ jobs:
              uses:actions/checkout@v4
 
             -name: finishDiploy
-             uses: ech $ "deploying finished"
+             uses: echo $ "deploying finished"
